@@ -1,0 +1,2 @@
+git commit -m "Chapter 30"
+git push -u origin master
